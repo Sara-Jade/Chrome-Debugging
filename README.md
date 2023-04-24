@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Chrome-Debugging
+- Following React: [Testing and Debugging](https://www.linkedin.com/learning/react-testing-and-debugging) by Emmanuel Henri, starting with exercise files 03_01_begin.
+
+- This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
